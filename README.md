@@ -17,6 +17,14 @@ This segmentation talks about marital status, age, salary, and the preferred pri
 Segment 1: These are wealthy people who can buy costly and premium Electric Vehicles. Segment 2: These are people who would opt for eco and budget-friendly Electric Vehicles.
 
 Vehicle Specification Segmentation
-This dataset consists of vehicle specifications such as its range, efficiency, top speed and the type of drive.
+This dataset consists of vehicle specifications such as its range, efficiency, top speed, and the type of drive.
 
 ![image](https://github.com/AbhirupB/EV-Market-Segmentation/assets/105281035/c095e292-6245-4f6f-8afc-796f8637e3e5)
+
+![image](https://github.com/AbhirupB/EV-Market-Segmentation/assets/105281035/0834a982-82fe-4bf2-b8a9-8244f1a75355)
+
+![image](https://github.com/AbhirupB/EV-Market-Segmentation/assets/105281035/51e57d2c-4bd8-4026-82f3-65fe6428dcf6)
+
+![image](https://github.com/AbhirupB/EV-Market-Segmentation/assets/105281035/382da629-95ec-4472-a810-c3e2f3e779d3)
+
+
