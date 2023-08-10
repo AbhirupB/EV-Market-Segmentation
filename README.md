@@ -27,4 +27,14 @@ This dataset consists of vehicle specifications such as its range, efficiency, t
 
 ![image](https://github.com/AbhirupB/EV-Market-Segmentation/assets/105281035/382da629-95ec-4472-a810-c3e2f3e779d3)
 
+Geographic Segmentation: Here, according to Sanctioned Charging Stations, the number and types of EVs available in different states, we can target Maharashtra, Uttar Pradesh, Karnataka, Gujarat, and Delhi for EV launch.
+
+The map for the number of EVs in different states:
+![image](https://github.com/AbhirupB/EV-Market-Segmentation/assets/90793692/3cef6f34-6e66-4ea8-81ca-2420fcb11b60)
+
+The map for the number of Sanctioned Charging Stations for EVs in India:
+![image](https://github.com/AbhirupB/EV-Market-Segmentation/assets/90793692/a98819dc-187a-4d13-9643-2e3b1f75fbf4)
+
+
+
 
